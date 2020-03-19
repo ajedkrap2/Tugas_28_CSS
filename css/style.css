@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+}
+
+body{
+  padding: 20px 20px;
+  height: 100%;
+  width: 100%;
+  background-color: #333333;
+}
+
+form {
+  margin: 0 auto;
+  width: 35%;
+  font-size: 12px;
+  margin-top: 30px;
+  margin-bottom: 120px;
+}
+
+img{
+  margin: 10px auto;
+  height: 120px;
+  width: 200px;
+}
+
+label{
+  color: white;
+}
+
+abbr{
+  color:blue;
+}
